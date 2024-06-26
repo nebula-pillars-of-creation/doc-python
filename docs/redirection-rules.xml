@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2da12d82">
+        <description>Created after removal of "Introduction To Python" from Comprehensive Python Mastery</description>
+        <accepts>Introduction-to-Python.html</accepts>
+    </rule>
+    <rule id="332adf87">
+        <description>Created after removal of "History Of Python" from Comprehensive Python Mastery</description>
+        <accepts>History-of-Python.html</accepts>
+    </rule>
+    <rule id="4cc3870c">
+        <description>Created after removal of "Installing Python" from Comprehensive Python Mastery</description>
+        <accepts>Installing-Python.html</accepts>
+    </rule>
+    <rule id="3fd81ed0">
+        <description>Created after removal of "Setting Up A Development Environment" from Comprehensive Python Mastery
+        </description>
+        <accepts>Setting-Up-a-Development-Environment.html</accepts>
+    </rule>
+    <rule id="548561a7">
+        <description>Created after removal of "Virtual Environments" from Comprehensive Python Mastery</description>
+        <accepts>Virtual-Environments.html</accepts>
+    </rule>
+    <rule id="29eb5ec3">
+        <description>Created after removal of "Managing Python Versions With Pyenv" from Comprehensive Python Mastery
+        </description>
+        <accepts>Managing-Python-Versions-with-pyenv.html</accepts>
+    </rule>
+    <rule id="465c64ec">
+        <description>Created after removal of "Built In Functions" from Comprehensive Python Mastery</description>
+        <accepts>Built-in-Functions.html</accepts>
+    </rule>
+    <rule id="94f0769">
+        <description>Created after removal of "Built In Data Types" from Comprehensive Python Mastery</description>
+        <accepts>Built-in-Data-Types.html</accepts>
+    </rule>
+    <rule id="10573a35">
+        <description>Created after removal of "Built In Constants" from Comprehensive Python Mastery</description>
+        <accepts>Built-in-Constants.html</accepts>
+    </rule>
+    <rule id="6f61a062">
+        <description>Created after removal of "Built In Exceptions" from Comprehensive Python Mastery</description>
+        <accepts>Built-in-Exceptions.html</accepts>
+    </rule>
+    <rule id="3e3d45af">
+        <description>Created after removal of "Magic Methods And Operator Overloading" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Magic-Methods-and-Operator-Overloading.html</accepts>
+    </rule>
+    <rule id="13ea17fc">
+        <description>Created after removal of "First Python Program" from Comprehensive Python Mastery</description>
+        <accepts>First-Python-Program.html</accepts>
+    </rule>
+    <rule id="20db2385">
+        <description>Created after removal of "Basic Syntax And Variables" from Comprehensive Python Mastery
+        </description>
+        <accepts>Basic-Syntax-and-Variables.html</accepts>
+    </rule>
+    <rule id="1b396620">
+        <description>Created after removal of "Operators And Expressions" from Comprehensive Python Mastery
+        </description>
+        <accepts>Operators-and-Expressions.html</accepts>
+    </rule>
+    <rule id="6f777894">
+        <description>Created after removal of "String Operations And Methods" from Comprehensive Python Mastery
+        </description>
+        <accepts>String-Operations-and-Methods.html</accepts>
+    </rule>
+    <rule id="8dad188">
+        <description>Created after removal of "Input And Output" from Comprehensive Python Mastery</description>
+        <accepts>Input-and-Output.html</accepts>
+    </rule>
+    <rule id="76590da3">
+        <description>Created after removal of "Control Structures" from Comprehensive Python Mastery</description>
+        <accepts>Control-Structures.html</accepts>
+    </rule>
+    <rule id="1642a724">
+        <description>Created after removal of "Conditional Statements" from Comprehensive Python Mastery</description>
+        <accepts>Conditional-Statements.html</accepts>
+    </rule>
+    <rule id="2bdb4f22">
+        <description>Created after removal of "Loops" from Comprehensive Python Mastery</description>
+        <accepts>Loops.html</accepts>
+    </rule>
+    <rule id="3d24b8cb">
+        <description>Created after removal of "Comprehensions" from Comprehensive Python Mastery</description>
+        <accepts>Comprehensions.html</accepts>
+    </rule>
+    <rule id="30d75994">
+        <description>Created after removal of "Error Handling Basics" from Comprehensive Python Mastery</description>
+        <accepts>Error-Handling-Basics.html</accepts>
+    </rule>
+    <rule id="4e74db52">
+        <description>Created after removal of "Functions" from Comprehensive Python Mastery</description>
+        <accepts>Functions.html</accepts>
+    </rule>
+    <rule id="2cfd8a2e">
+        <description>Created after removal of "Lambda Expressions" from Comprehensive Python Mastery</description>
+        <accepts>Lambda-Expressions.html</accepts>
+    </rule>
+    <rule id="5f55cc71">
+        <description>Created after removal of "Modules And Packages" from Comprehensive Python Mastery</description>
+        <accepts>Modules-and-Packages.html</accepts>
+    </rule>
+    <rule id="45ff9bc3">
+        <description>Created after removal of "Namespaces And Scopes" from Comprehensive Python Mastery</description>
+        <accepts>Namespaces-and-Scopes.html</accepts>
+    </rule>
+    <rule id="687007d0">
+        <description>Created after removal of "Importing Modules" from Comprehensive Python Mastery</description>
+        <accepts>Importing-Modules.html</accepts>
+    </rule>
+    <rule id="3024c0c4">
+        <description>Created after removal of "Classes And Objects" from Comprehensive Python Mastery</description>
+        <accepts>Classes-and-Objects.html</accepts>
+    </rule>
+    <rule id="6606d0df">
+        <description>Created after removal of "Class Attributes And Methods" from Comprehensive Python Mastery
+        </description>
+        <accepts>Class-Attributes-and-Methods.html</accepts>
+    </rule>
+    <rule id="7ff8dba8">
+        <description>Created after removal of "Inheritance And Polymorphism" from Comprehensive Python Mastery
+        </description>
+        <accepts>Inheritance-and-Polymorphism.html</accepts>
+    </rule>
+    <rule id="173f522c">
+        <description>Created after removal of "Encapsulation And Abstraction" from Comprehensive Python Mastery
+        </description>
+        <accepts>Encapsulation-and-Abstraction.html</accepts>
+    </rule>
+    <rule id="1e466a5e">
+        <description>Created after removal of "Magic Methods" from Comprehensive Python Mastery</description>
+        <accepts>Magic-Methods.html</accepts>
+    </rule>
+    <rule id="5771e47a">
+        <description>Created after removal of "Class Decorators" from Comprehensive Python Mastery</description>
+        <accepts>Class-Decorators.html</accepts>
+    </rule>
+    <rule id="7eb1b815">
+        <description>Created after removal of "Basic Error Handling" from Comprehensive Python Mastery</description>
+        <accepts>Basic-Error-Handling.html</accepts>
+    </rule>
+    <rule id="2cc7ae3d">
+        <description>Created after removal of "Raising Exceptions" from Comprehensive Python Mastery</description>
+        <accepts>Raising-Exceptions.html</accepts>
+    </rule>
+    <rule id="20638796">
+        <description>Created after removal of "Creating Custom Exceptions" from Comprehensive Python Mastery
+        </description>
+        <accepts>Creating-Custom-Exceptions.html</accepts>
+    </rule>
+    <rule id="21f020c4">
+        <description>Created after removal of "Exception Chaining" from Comprehensive Python Mastery</description>
+        <accepts>Exception-Chaining.html</accepts>
+    </rule>
+    <rule id="7062e1bd">
+        <description>Created after removal of "Context Management For Errors" from Comprehensive Python Mastery
+        </description>
+        <accepts>Context-Management-for-Errors.html</accepts>
+    </rule>
+    <rule id="1447131f">
+        <description>Created after removal of "Assertions And Debugging" from Comprehensive Python Mastery</description>
+        <accepts>Assertions-and-Debugging.html</accepts>
+    </rule>
+    <rule id="105d99cc">
+        <description>Created after removal of "Iterators And Generators" from Comprehensive Python Mastery</description>
+        <accepts>Iterators-and-Generators.html</accepts>
+    </rule>
+    <rule id="7199343d">
+        <description>Created after removal of "Decorators" from Comprehensive Python Mastery</description>
+        <accepts>Decorators.html</accepts>
+    </rule>
+    <rule id="40aff7d7">
+        <description>Created after removal of "Context Managers" from Comprehensive Python Mastery</description>
+        <accepts>Context-Managers.html</accepts>
+    </rule>
+    <rule id="caa09f4">
+        <description>Created after removal of "Asynchronous Programming" from Comprehensive Python Mastery</description>
+        <accepts>Asynchronous-Programming.html</accepts>
+    </rule>
+    <rule id="6c62f504">
+        <description>Created after removal of "Asyncio" from Comprehensive Python Mastery</description>
+        <accepts>AsyncIO.html</accepts>
+    </rule>
+    <rule id="3aec06d7">
+        <description>Created after removal of "Coroutines" from Comprehensive Python Mastery</description>
+        <accepts>Coroutines.html</accepts>
+    </rule>
+    <rule id="60cc183a">
+        <description>Created after removal of "Async Await Syntax" from Comprehensive Python Mastery</description>
+        <accepts>Async-Await-Syntax.html</accepts>
+    </rule>
+    <rule id="4db396de">
+        <description>Created after removal of "Building Async Applications" from Comprehensive Python Mastery
+        </description>
+        <accepts>Building-Async-Applications.html</accepts>
+    </rule>
+    <rule id="69c56441">
+        <description>Created after removal of "Advanced Language Features" from Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-Language-Features.html</accepts>
+    </rule>
+    <rule id="23af28a6">
+        <description>Created after removal of "Functional Programming" from Comprehensive Python Mastery</description>
+        <accepts>Functional-Programming.html</accepts>
+    </rule>
+    <rule id="512e7d4f">
+        <description>Created after removal of "Metaprogramming" from Comprehensive Python Mastery</description>
+        <accepts>Metaprogramming.html</accepts>
+    </rule>
+    <rule id="3603dab6">
+        <description>Created after removal of "Descriptors And Properties" from Comprehensive Python Mastery
+        </description>
+        <accepts>Descriptors-and-Properties.html</accepts>
+    </rule>
+    <rule id="2f09d5b">
+        <description>Created after removal of "Type Hints And Annotations" from Comprehensive Python Mastery
+        </description>
+        <accepts>Type-Hints-and-Annotations.html</accepts>
+    </rule>
+    <rule id="47b08e9e">
+        <description>Created after removal of "Advanced Structures" from Comprehensive Python Mastery</description>
+        <accepts>Advanced-Structures.html</accepts>
+    </rule>
+    <rule id="183750e2">
+        <description>Created after removal of "Collections Module" from Comprehensive Python Mastery</description>
+        <accepts>Collections-Module.html</accepts>
+    </rule>
+    <rule id="45300a9c">
+        <description>Created after removal of "Itertools And More Iteration Tools" from Comprehensive Python Mastery
+        </description>
+        <accepts>Itertools-and-More-Iteration-Tools.html</accepts>
+    </rule>
+    <rule id="1a8aefa0">
+        <description>Created after removal of "Custom Data Structures" from Comprehensive Python Mastery</description>
+        <accepts>Custom-Data-Structures.html</accepts>
+    </rule>
+    <rule id="fc298a6">
+        <description>Created after removal of "Data Classes" from Comprehensive Python Mastery</description>
+        <accepts>Data-Classes.html</accepts>
+    </rule>
+    <rule id="5d2d29d4">
+        <description>Created after removal of "Algorithm Complexity" from Comprehensive Python Mastery</description>
+        <accepts>Algorithm-Complexity.html</accepts>
+    </rule>
+    <rule id="5378fde8">
+        <description>Created after removal of "Basic Data Structures" from Comprehensive Python Mastery</description>
+        <accepts>Basic-Data-Structures.html</accepts>
+    </rule>
+    <rule id="45a18540">
+        <description>Created after removal of "Lists And Tuples" from Comprehensive Python Mastery</description>
+        <accepts>Lists-and-Tuples.html</accepts>
+    </rule>
+    <rule id="74ae8f08">
+        <description>Created after removal of "Dictionaries And Sets" from Comprehensive Python Mastery</description>
+        <accepts>Dictionaries-and-Sets.html</accepts>
+    </rule>
+    <rule id="347daaf5">
+        <description>Created after removal of "Stacks And Queues" from Comprehensive Python Mastery</description>
+        <accepts>Stacks-and-Queues.html</accepts>
+    </rule>
+    <rule id="bce2bf">
+        <description>Created after removal of "Advanced Data Structures" from Comprehensive Python Mastery</description>
+        <accepts>Advanced-Data-Structures.html</accepts>
+    </rule>
+    <rule id="5851e3e8">
+        <description>Created after removal of "Trees And Graphs" from Comprehensive Python Mastery</description>
+        <accepts>Trees-and-Graphs.html</accepts>
+    </rule>
+    <rule id="3ff06a07">
+        <description>Created after removal of "Algorithmic Techniques" from Comprehensive Python Mastery</description>
+        <accepts>Algorithmic-Techniques.html</accepts>
+    </rule>
+    <rule id="7b0a98fb">
+        <description>Created after removal of "Searching And Sorting Algorithms" from Comprehensive Python Mastery
+        </description>
+        <accepts>Searching-and-Sorting-Algorithms.html</accepts>
+    </rule>
+    <rule id="2e910989">
+        <description>Created after removal of "Dynamic Programming" from Comprehensive Python Mastery</description>
+        <accepts>Dynamic-Programming.html</accepts>
+    </rule>
+    <rule id="4eb4ff0">
+        <description>Created after removal of "Graph Algorithms" from Comprehensive Python Mastery</description>
+        <accepts>Graph-Algorithms.html</accepts>
+    </rule>
+    <rule id="5f7d9241">
+        <description>Created after removal of "System Design Basics" from Comprehensive Python Mastery</description>
+        <accepts>System-Design-Basics.html</accepts>
+    </rule>
+    <rule id="264f86c1">
+        <description>Created after removal of "Fundamental Design Patterns" from Comprehensive Python Mastery
+        </description>
+        <accepts>Fundamental-Design-Patterns.html</accepts>
+    </rule>
+    <rule id="7d5466a8">
+        <description>Created after removal of "Creational Patterns" from Comprehensive Python Mastery</description>
+        <accepts>Creational-Patterns.html</accepts>
+    </rule>
+    <rule id="6f3ec3ff">
+        <description>Created after removal of "Structural Patterns" from Comprehensive Python Mastery</description>
+        <accepts>Structural-Patterns.html</accepts>
+    </rule>
+    <rule id="4075cc0c">
+        <description>Created after removal of "Behavioral Patterns" from Comprehensive Python Mastery</description>
+        <accepts>Behavioral-Patterns.html</accepts>
+    </rule>
+    <rule id="7245a6c7">
+        <description>Created after removal of "Concurrency Patterns" from Comprehensive Python Mastery</description>
+        <accepts>Concurrency-Patterns.html</accepts>
+    </rule>
+    <rule id="1ab55830">
+        <description>Created after removal of "Architectural Patterns" from Comprehensive Python Mastery</description>
+        <accepts>Architectural-Patterns.html</accepts>
+    </rule>
+    <rule id="f1cc58f">
+        <description>Created after removal of "Networking In Python" from Comprehensive Python Mastery</description>
+        <accepts>Networking-in-Python.html</accepts>
+    </rule>
+    <rule id="55cffa6e">
+        <description>Created after removal of "Socket Programming" from Comprehensive Python Mastery</description>
+        <accepts>Socket-Programming.html</accepts>
+    </rule>
+    <rule id="641d1e55">
+        <description>Created after removal of "Tcp Ip Client And Server" from Comprehensive Python Mastery</description>
+        <accepts>TCP-IP-Client-and-Server.html</accepts>
+    </rule>
+    <rule id="4e74df55">
+        <description>Created after removal of "Udp Client And Server" from Comprehensive Python Mastery</description>
+        <accepts>UDP-Client-and-Server.html</accepts>
+    </rule>
+    <rule id="53ac7115">
+        <description>Created after removal of "High Level Network Protocols" from Comprehensive Python Mastery
+        </description>
+        <accepts>High-Level-Network-Protocols.html</accepts>
+    </rule>
+    <rule id="44d82c44">
+        <description>Created after removal of "Http Requests And Responses" from Comprehensive Python Mastery
+        </description>
+        <accepts>HTTP-Requests-and-Responses.html</accepts>
+    </rule>
+    <rule id="7f31bd5d">
+        <description>Created after removal of "Working With Web Apis" from Comprehensive Python Mastery</description>
+        <accepts>Working-with-Web-APIs.html</accepts>
+    </rule>
+    <rule id="3bc04a28">
+        <description>Created after removal of "Asynchronous Network Programming" from Comprehensive Python Mastery
+        </description>
+        <accepts>Asynchronous-Network-Programming.html</accepts>
+    </rule>
+    <rule id="1bcc45ca">
+        <description>Created after removal of "Network Application Frameworks" from Comprehensive Python Mastery
+        </description>
+        <accepts>Network-Application-Frameworks.html</accepts>
+    </rule>
+    <rule id="7e8fab01">
+        <description>Created after removal of "Multiprocessing And Threading" from Comprehensive Python Mastery
+        </description>
+        <accepts>Multiprocessing-and-Threading.html</accepts>
+    </rule>
+    <rule id="7fbe2e35">
+        <description>Created after removal of "Threading Vs Multiprocessing" from Comprehensive Python Mastery
+        </description>
+        <accepts>Threading-vs-Multiprocessing.html</accepts>
+    </rule>
+    <rule id="7d9dd388">
+        <description>Created after removal of "Concurrent Futures" from Comprehensive Python Mastery</description>
+        <accepts>Concurrent-Futures.html</accepts>
+    </rule>
+    <rule id="3eb63179">
+        <description>Created after removal of "Parallel Execution With Joblib" from Comprehensive Python Mastery
+        </description>
+        <accepts>Parallel-Execution-with-Joblib.html</accepts>
+    </rule>
+    <rule id="35294546">
+        <description>Created after removal of "Web Development" from Comprehensive Python Mastery</description>
+        <accepts>Web-Development.html</accepts>
+    </rule>
+    <rule id="7554d222">
+        <description>Created after removal of "Flask Basics" from Comprehensive Python Mastery</description>
+        <accepts>Flask-Basics.html</accepts>
+    </rule>
+    <rule id="2bcc3a41">
+        <description>Created after removal of "Django Basics" from Comprehensive Python Mastery</description>
+        <accepts>Django-Basics.html</accepts>
+    </rule>
+    <rule id="608d1ec4">
+        <description>Created after removal of "Api Development With Fastapi" from Comprehensive Python Mastery
+        </description>
+        <accepts>API-Development-with-FastAPI.html</accepts>
+    </rule>
+    <rule id="f76a1ed">
+        <description>Created after removal of "Data Science And Machine Learning" from Comprehensive Python Mastery
+        </description>
+        <accepts>Data-Science-and-Machine-Learning.html</accepts>
+    </rule>
+    <rule id="42f3d38f">
+        <description>Created after removal of "Pandas For Data Analysis" from Comprehensive Python Mastery</description>
+        <accepts>Pandas-for-Data-Analysis.html</accepts>
+    </rule>
+    <rule id="310cad55">
+        <description>Created after removal of "Numpy For Numerical Data" from Comprehensive Python Mastery</description>
+        <accepts>NumPy-for-Numerical-Data.html</accepts>
+    </rule>
+    <rule id="323961c3">
+        <description>Created after removal of "Matplotlib And Seaborn For Data Visualization" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Matplotlib-and-Seaborn-for-Data-Visualization.html</accepts>
+    </rule>
+    <rule id="64a0d534">
+        <description>Created after removal of "Scikit Learn For Machine Learning" from Comprehensive Python Mastery
+        </description>
+        <accepts>Scikit-Learn-for-Machine-Learning.html</accepts>
+    </rule>
+    <rule id="5c435ba7">
+        <description>Created after removal of "Deep Learning With Tensorflow And Keras" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Deep-Learning-with-TensorFlow-and-Keras.html</accepts>
+    </rule>
+    <rule id="41910674">
+        <description>Created after removal of "Natural Language Processing With Nltk And Spacy" from Comprehensive
+            Python Mastery
+        </description>
+        <accepts>Natural-Language-Processing-with-NLTK-and-SpaCy.html</accepts>
+    </rule>
+    <rule id="285b79f6">
+        <description>Created after removal of "Automation And Scripting" from Comprehensive Python Mastery</description>
+        <accepts>Automation-and-Scripting.html</accepts>
+    </rule>
+    <rule id="7d5f4c0b">
+        <description>Created after removal of "Scripting For File System Management" from Comprehensive Python Mastery
+        </description>
+        <accepts>Scripting-for-File-System-Management.html</accepts>
+    </rule>
+    <rule id="47fce858">
+        <description>Created after removal of "Automating Web Browsing With Selenium" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Automating-Web-Browsing-with-Selenium.html</accepts>
+    </rule>
+    <rule id="1cc02a45">
+        <description>Created after removal of "Networking Automation With Paramiko And Netmiko" from Comprehensive
+            Python Mastery
+        </description>
+        <accepts>Networking-Automation-with-Paramiko-and-Netmiko.html</accepts>
+    </rule>
+    <rule id="a5aabfa">
+        <description>Created after removal of "Unit Testing" from Comprehensive Python Mastery</description>
+        <accepts>Unit-Testing.html</accepts>
+    </rule>
+    <rule id="22d8c66b">
+        <description>Created after removal of "Integration Testing" from Comprehensive Python Mastery</description>
+        <accepts>Integration-Testing.html</accepts>
+    </rule>
+    <rule id="f28b1f">
+        <description>Created after removal of "Functional Testing" from Comprehensive Python Mastery</description>
+        <accepts>Functional-Testing.html</accepts>
+    </rule>
+    <rule id="64d13050">
+        <description>Created after removal of "Mocking In Tests" from Comprehensive Python Mastery</description>
+        <accepts>Mocking-in-Tests.html</accepts>
+    </rule>
+    <rule id="69f7febc">
+        <description>Created after removal of "Pytest Advanced Features" from Comprehensive Python Mastery</description>
+        <accepts>PyTest-Advanced-Features.html</accepts>
+    </rule>
+    <rule id="393d626a">
+        <description>Created after removal of "Test Driven Development Tdd" from Comprehensive Python Mastery
+        </description>
+        <accepts>Test-Driven-Development-TDD.html</accepts>
+    </rule>
+    <rule id="1e473c7e">
+        <description>Created after removal of "Behavior Driven Development Bdd" from Comprehensive Python Mastery
+        </description>
+        <accepts>Behavior-Driven-Development-BDD.html</accepts>
+    </rule>
+    <rule id="66ee6f9b">
+        <description>Created after removal of "Static Analysis And Linting" from Comprehensive Python Mastery
+        </description>
+        <accepts>Static-Analysis-and-Linting.html</accepts>
+    </rule>
+    <rule id="445e7f02">
+        <description>Created after removal of "Code Formatting With Black And Isort" from Comprehensive Python Mastery
+        </description>
+        <accepts>Code-Formatting-with-Black-and-isort.html</accepts>
+    </rule>
+    <rule id="5c7bff59">
+        <description>Created after removal of "Code Optimization Techniques" from Comprehensive Python Mastery
+        </description>
+        <accepts>Code-Optimization-Techniques.html</accepts>
+    </rule>
+    <rule id="3f935b48">
+        <description>Created after removal of "Profiling Python Code" from Comprehensive Python Mastery</description>
+        <accepts>Profiling-Python-Code.html</accepts>
+    </rule>
+    <rule id="3ff3958">
+        <description>Created after removal of "Cython For Performance" from Comprehensive Python Mastery</description>
+        <accepts>Cython-for-Performance.html</accepts>
+    </rule>
+    <rule id="5dd1d9db">
+        <description>Created after removal of "Using C Extensions For Performance" from Comprehensive Python Mastery
+        </description>
+        <accepts>Using-C-Extensions-for-Performance.html</accepts>
+    </rule>
+    <rule id="673ad258">
+        <description>Created after removal of "Memory Management And Optimization" from Comprehensive Python Mastery
+        </description>
+        <accepts>Memory-Management-and-Optimization.html</accepts>
+    </rule>
+    <rule id="6136f72">
+        <description>Created after removal of "Optimizing Data Structures And Algorithms" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Optimizing-Data-Structures-and-Algorithms.html</accepts>
+    </rule>
+    <rule id="33442139">
+        <description>Created after removal of "Introduction To Qt" from Comprehensive Python Mastery</description>
+        <accepts>Introduction-to-Qt.html</accepts>
+    </rule>
+    <rule id="5c64347">
+        <description>Created after removal of "Pyqt Basics" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-Basics.html</accepts>
+    </rule>
+    <rule id="4fa7e14c">
+        <description>Created after removal of "Pyqt Widgets And Layouts" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-Widgets-and-Layouts.html</accepts>
+    </rule>
+    <rule id="23a0ef4c">
+        <description>Created after removal of "Pyqt Signals And Slots" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-Signals-and-Slots.html</accepts>
+    </rule>
+    <rule id="3a190275">
+        <description>Created after removal of "Pyqt Event Handling" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-Event-Handling.html</accepts>
+    </rule>
+    <rule id="2aeeffdd">
+        <description>Created after removal of "Pyqt Model View Programming" from Comprehensive Python Mastery
+        </description>
+        <accepts>PyQt-Model-View-Programming.html</accepts>
+    </rule>
+    <rule id="14f7b1ee">
+        <description>Created after removal of "Pyqt Graphical Effects And Animation" from Comprehensive Python Mastery
+        </description>
+        <accepts>PyQt-Graphical-Effects-and-Animation.html</accepts>
+    </rule>
+    <rule id="3c796edb">
+        <description>Created after removal of "Pyqt Advanced Topics" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-Advanced-Topics.html</accepts>
+    </rule>
+    <rule id="6e461b0d">
+        <description>Created after removal of "Pyqt And Qml Integration" from Comprehensive Python Mastery</description>
+        <accepts>PyQt-and-QML-Integration.html</accepts>
+    </rule>
+    <rule id="50ba4ff1">
+        <description>Created after removal of "Pyside Basics" from Comprehensive Python Mastery</description>
+        <accepts>PySide-Basics.html</accepts>
+    </rule>
+    <rule id="30d5cc65">
+        <description>Created after removal of "Pyside Widgets And Layouts" from Comprehensive Python Mastery
+        </description>
+        <accepts>PySide-Widgets-and-Layouts.html</accepts>
+    </rule>
+    <rule id="6b453534">
+        <description>Created after removal of "Pyside Signals And Slots" from Comprehensive Python Mastery</description>
+        <accepts>PySide-Signals-and-Slots.html</accepts>
+    </rule>
+    <rule id="1f51c8c1">
+        <description>Created after removal of "Pyside Event Handling" from Comprehensive Python Mastery</description>
+        <accepts>PySide-Event-Handling.html</accepts>
+    </rule>
+    <rule id="c5f71e">
+        <description>Created after removal of "Pyside Model View Programming" from Comprehensive Python Mastery
+        </description>
+        <accepts>PySide-Model-View-Programming.html</accepts>
+    </rule>
+    <rule id="68456880">
+        <description>Created after removal of "Pyside Graphical Effects And Animation" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>PySide-Graphical-Effects-and-Animation.html</accepts>
+    </rule>
+    <rule id="2a5120c2">
+        <description>Created after removal of "Pyside Advanced Topics" from Comprehensive Python Mastery</description>
+        <accepts>PySide-Advanced-Topics.html</accepts>
+    </rule>
+    <rule id="3ccd0428">
+        <description>Created after removal of "Pyside And Qml Integration" from Comprehensive Python Mastery
+        </description>
+        <accepts>PySide-and-QML-Integration.html</accepts>
+    </rule>
+    <rule id="405fc2b9">
+        <description>Created after removal of "Graphics And Animations In Qt" from Comprehensive Python Mastery
+        </description>
+        <accepts>Graphics-and-Animations-in-Qt.html</accepts>
+    </rule>
+    <rule id="2b5d0af4">
+        <description>Created after removal of "Custom Widgets And Painting" from Comprehensive Python Mastery
+        </description>
+        <accepts>Custom-Widgets-and-Painting.html</accepts>
+    </rule>
+    <rule id="1a01fb1e">
+        <description>Created after removal of "Packaging And Distribution" from Comprehensive Python Mastery
+        </description>
+        <accepts>Packaging-and-Distribution.html</accepts>
+    </rule>
+    <rule id="95a9583">
+        <description>Created after removal of "Scripting For System Administration" from Comprehensive Python Mastery
+        </description>
+        <accepts>Scripting-for-System-Administration.html</accepts>
+    </rule>
+    <rule id="75a6ff2c">
+        <description>Created after removal of "Building Cli Tools With Click" from Comprehensive Python Mastery
+        </description>
+        <accepts>Building-CLI-Tools-with-Click.html</accepts>
+    </rule>
+    <rule id="55417fff">
+        <description>Created after removal of "Automation Cloud Services" from Comprehensive Python Mastery
+        </description>
+        <accepts>Automation-Cloud-Services.html</accepts>
+    </rule>
+    <rule id="5024d865">
+        <description>Created after removal of "Automating Network Configuration And Management" from Comprehensive
+            Python Mastery
+        </description>
+        <accepts>Automating-Network-Configuration-and-Management.html</accepts>
+    </rule>
+    <rule id="3425483b">
+        <description>Created after removal of "Advanced Numpy Techniques" from Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-NumPy-Techniques.html</accepts>
+    </rule>
+    <rule id="2e6a7722">
+        <description>Created after removal of "Scipy For Scientific Algorithms" from Comprehensive Python Mastery
+        </description>
+        <accepts>SciPy-for-Scientific-Algorithms.html</accepts>
+    </rule>
+    <rule id="626e8882">
+        <description>Created after removal of "Matplotlib For Advanced Data Visualization" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Matplotlib-for-Advanced-Data-Visualization.html</accepts>
+    </rule>
+    <rule id="7443d186">
+        <description>Created after removal of "Working With Large Datasets" from Comprehensive Python Mastery
+        </description>
+        <accepts>Working-with-Large-Datasets.html</accepts>
+    </rule>
+    <rule id="683a47a7">
+        <description>Created after removal of "Parallel Computing With Dask" from Comprehensive Python Mastery
+        </description>
+        <accepts>Parallel-Computing-with-Dask.html</accepts>
+    </rule>
+    <rule id="3234c024">
+        <description>Created after removal of "Security Best Practices In Python" from Comprehensive Python Mastery
+        </description>
+        <accepts>Security-Best-Practices-in-Python.html</accepts>
+    </rule>
+    <rule id="385bc0c2">
+        <description>Created after removal of "Implementing Secure Authentication" from Comprehensive Python Mastery
+        </description>
+        <accepts>Implementing-Secure-Authentication.html</accepts>
+    </rule>
+    <rule id="46788a32">
+        <description>Created after removal of "Cryptography Fundamentals" from Comprehensive Python Mastery
+        </description>
+        <accepts>Cryptography-Fundamentals.html</accepts>
+    </rule>
+    <rule id="69a09a8a">
+        <description>Created after removal of "Using Cryptography Libraries" from Comprehensive Python Mastery
+        </description>
+        <accepts>Using-Cryptography-Libraries.html</accepts>
+    </rule>
+    <rule id="7a181b79">
+        <description>Created after removal of "Advanced Machine Learning Techniques" from Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-Machine-Learning-Techniques.html</accepts>
+    </rule>
+    <rule id="58e07b">
+        <description>Created after removal of "Deep Learning Architectures" from Comprehensive Python Mastery
+        </description>
+        <accepts>Deep-Learning-Architectures.html</accepts>
+    </rule>
+    <rule id="21a50c26">
+        <description>Created after removal of "Generative Adversarial Networks Gans" from Comprehensive Python Mastery
+        </description>
+        <accepts>Generative-Adversarial-Networks-GANs.html</accepts>
+    </rule>
+    <rule id="34e51881">
+        <description>Created after removal of "Reinforcement Learning" from Comprehensive Python Mastery</description>
+        <accepts>Reinforcement-Learning.html</accepts>
+    </rule>
+    <rule id="65470d5a">
+        <description>Created after removal of "Big Data Technologies For Python" from Comprehensive Python Mastery
+        </description>
+        <accepts>Big-Data-Technologies-for-Python.html</accepts>
+    </rule>
+    <rule id="424c584d">
+        <description>Created after removal of "Time Series Forecasting" from Comprehensive Python Mastery</description>
+        <accepts>Time-Series-Forecasting.html</accepts>
+    </rule>
+    <rule id="e5d31be">
+        <description>Created after removal of "Developing A Web Application" from Comprehensive Python Mastery
+        </description>
+        <accepts>Developing-a-Web-Application.html</accepts>
+    </rule>
+    <rule id="458dc96d">
+        <description>Created after removal of "Building A Data Pipeline" from Comprehensive Python Mastery</description>
+        <accepts>Building-a-Data-Pipeline.html</accepts>
+    </rule>
+    <rule id="e508e9f">
+        <description>Created after removal of "Creating A Machine Learning Model" from Comprehensive Python Mastery
+        </description>
+        <accepts>Creating-a-Machine-Learning-Model.html</accepts>
+    </rule>
+    <rule id="f669955">
+        <description>Created after removal of "Automating Workflow With Python Scripts" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Automating-Workflow-with-Python-Scripts.html</accepts>
+    </rule>
+    <rule id="4bc211e">
+        <description>Created after removal of "Game Development With Pygame" from Comprehensive Python Mastery
+        </description>
+        <accepts>Game-Development-with-Pygame.html</accepts>
+    </rule>
+    <rule id="77d65dc6">
+        <description>Created after removal of "What'S New In Python" from Comprehensive Python Mastery</description>
+        <accepts>What's-New-in-Python.html</accepts>
+    </rule>
+    <rule id="243a4ede">
+        <description>Created after removal of "Contributing To Python Open Source Projects" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Contributing-to-Python-Open-Source-Projects.html</accepts>
+    </rule>
+    <rule id="2e7305f0">
+        <description>Created after removal of "Attending Conferences And Meetups" from Comprehensive Python Mastery
+        </description>
+        <accepts>Attending-Conferences-and-Meetups.html</accepts>
+    </rule>
+    <rule id="7c65d512">
+        <description>Created after removal of "Finding And Choosing Python Libraries" from Comprehensive Python
+            Mastery
+        </description>
+        <accepts>Finding-and-Choosing-Python-Libraries.html</accepts>
+    </rule>
+    <rule id="7de81c4e">
+        <description>Created after removal of "Learning Resources And Communities" from Comprehensive Python Mastery
+        </description>
+        <accepts>Learning-Resources-and-Communities.html</accepts>
+    </rule>
+    <rule id="6cb2948f">
+        <description>Created after removal of "Advanced Python Books And Courses" from Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-Python-Books-and-Courses.html</accepts>
+    </rule>
+    <rule id="21c676b6">
+        <description>Created after removal of "Overview" from Comprehensive Python Mastery</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="65a85476">
+        <description>Created after removal of "Introduction To Python" from Comprehensive Python Mastery</description>
+        <accepts>Introduction-to-Python.html</accepts>
+    </rule>
+    <rule id="35e21e64">
+        <description>Created after removal of "History Of Python" from Comprehensive Python Mastery</description>
+        <accepts>History-of-Python.html</accepts>
+    </rule>
+    <rule id="98007a7">
+        <description>Created after removal of "Environment Setup" from Comprehensive Python Mastery</description>
+        <accepts>Environment-Setup.html</accepts>
+    </rule>
+    <rule id="6cb0357f">
+        <description>Created after removal of "Python Built Ins" from Comprehensive Python Mastery</description>
+        <accepts>Python-Built-ins.html</accepts>
+    </rule>
+    <rule id="1d1d2d21">
+        <description>Created after removal of "Basics Of Python" from Comprehensive Python Mastery</description>
+        <accepts>Basics-of-Python.html</accepts>
+    </rule>
+    <rule id="5b50c217">
+        <description>Created after removal of "Functions And Modules" from Comprehensive Python Mastery</description>
+        <accepts>Functions-and-Modules.html</accepts>
+    </rule>
+    <rule id="7be51806">
+        <description>Created after removal of "Object Oriented Programming" from Comprehensive Python Mastery
+        </description>
+        <accepts>Object-Oriented-Programming.html</accepts>
+    </rule>
+    <rule id="1e64e787">
+        <description>Created after removal of "Error Handling And Exceptions" from Comprehensive Python Mastery
+        </description>
+        <accepts>Error-Handling-and-Exceptions.html</accepts>
+    </rule>
+    <rule id="75561906">
+        <description>Created after removal of "Advanced Topics" from Comprehensive Python Mastery</description>
+        <accepts>Advanced-Topics.html</accepts>
+    </rule>
+    <rule id="1d9edcf2">
+        <description>Created after removal of "Data Structures And Algorithms Dsa" from Comprehensive Python Mastery
+        </description>
+        <accepts>Data-Structures-and-Algorithms-DSA.html</accepts>
+    </rule>
+    <rule id="72f870d6">
+        <description>Created after removal of "Design Patterns And System Design" from Comprehensive Python Mastery
+        </description>
+        <accepts>Design-Patterns-and-System-Design.html</accepts>
+    </rule>
+    <rule id="2a1f66">
+        <description>Created after removal of "Networking And Parallel Programming" from Comprehensive Python Mastery
+        </description>
+        <accepts>Networking-and-Parallel-Programming.html</accepts>
+    </rule>
+    <rule id="3424e7c5">
+        <description>Created after removal of "Python Libraries And Frameworks" from Comprehensive Python Mastery
+        </description>
+        <accepts>Python-Libraries-and-Frameworks.html</accepts>
+    </rule>
+    <rule id="683d3f4b">
+        <description>Created after removal of "Testing And Quality Assurance" from Comprehensive Python Mastery
+        </description>
+        <accepts>Testing-and-Quality-Assurance.html</accepts>
+    </rule>
+    <rule id="7ba3a7d7">
+        <description>Created after removal of "Optimization And Performance" from Comprehensive Python Mastery
+        </description>
+        <accepts>Optimization-and-Performance.html</accepts>
+    </rule>
+    <rule id="10854c0c">
+        <description>Created after removal of "Qt Framework For Gui Development" from Comprehensive Python Mastery
+        </description>
+        <accepts>Qt-Framework-for-GUI-Development.html</accepts>
+    </rule>
+    <rule id="3755255b">
+        <description>Created after removal of "Advanced Scripting And Automation" from Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-Scripting-and-Automation.html</accepts>
+    </rule>
+    <rule id="67a9fa18">
+        <description>Created after removal of "Scientific Computing" from Comprehensive Python Mastery</description>
+        <accepts>Scientific-Computing.html</accepts>
+    </rule>
+    <rule id="7db4fe5a">
+        <description>Created after removal of "Security And Cryptography" from Comprehensive Python Mastery
+        </description>
+        <accepts>Security-and-Cryptography.html</accepts>
+    </rule>
+    <rule id="6e259097">
+        <description>Created after removal of "Advanced Topics In Artificial Intelligence And Data Science Ai Ds" from
+            Comprehensive Python Mastery
+        </description>
+        <accepts>Advanced-Topics-in-Artificial-Intelligence-and-Data-Science-AI-DS.html</accepts>
+    </rule>
+    <rule id="72c1ca85">
+        <description>Created after removal of "Projects And Case Studies" from Comprehensive Python Mastery
+        </description>
+        <accepts>Projects-and-Case-Studies.html</accepts>
+    </rule>
+    <rule id="22da778">
+        <description>Created after removal of "Keep Up With Python" from Comprehensive Python Mastery</description>
+        <accepts>Keep-Up-with-Python.html</accepts>
+    </rule>
+    <rule id="36337e3">
+        <description>Created after removal of "Resources For Mastery" from Comprehensive Python Mastery</description>
+        <accepts>Resources-for-Mastery.html</accepts>
+    </rule>
+</rules>

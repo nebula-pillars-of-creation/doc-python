@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <primary-color>blueberry</primary-color>
+        <header-logo>https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg</header-logo>
+        <product-web-url>https://www.python.org</product-web-url>
+        <custom-favicons>https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg</custom-favicons>
+        <download-title>Get Awesome App</download-title>
+        <download-page>https://example.com</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <web-root>https://some.domain</web-root>
+    </variables>
+    <build-profile instance="doc-python"/>
+    <footer>
+        <copyright>Gishant Singh 2023</copyright>
+    </footer>
+</buildprofiles>
