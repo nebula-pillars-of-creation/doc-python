@@ -7,13 +7,13 @@
         <header-logo>https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg</header-logo>
         <product-web-url>https://www.python.org</product-web-url>
         <custom-favicons>https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg</custom-favicons>
-        <download-title>Get Awesome App</download-title>
-        <download-page>https://example.com</download-page>
+        <download-title>GitHub Repo</download-title>
+        <download-page>https://github.com/nebula-pillars-of-creation/doc-python</download-page>
         <showDownloadButton>true</showDownloadButton>
         <web-root>https://some.domain</web-root>
     </variables>
     <build-profile instance="doc-python"/>
     <footer>
-        <copyright>Gishant Singh 2023</copyright>
+        <copyright>Gishant Singh 2024</copyright>
     </footer>
 </buildprofiles>

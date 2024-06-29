@@ -8,4 +8,10 @@
 
 
     <toc-element topic="Introduction.md"/>
+    <toc-element topic="Getting-Started-with-Python.md">
+        <toc-element topic="Overview.md"/>
+        <toc-element topic="Mission-1-Environment-Setup.md">
+            <toc-element topic="Installing-Python.md"/>
+        </toc-element>
+    </toc-element>
 </instance-profile>
